@@ -11,6 +11,6 @@ Automates Secret Santa assignments with fairness and ensures no repeated pairing
 ## Installation
 ```sh
 pip install -r requirements.txt
-
+```
 ## Usage
 python main.py
