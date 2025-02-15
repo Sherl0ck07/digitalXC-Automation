@@ -1,5 +1,8 @@
 # digitalXC-Automation
-# Secret Santa Game 🎅
+
+# Challenge 1 - Finding group names
+
+# Challenge 2 -Secret Santa Game 🎅
 Automates Secret Santa assignments with fairness and ensures no repeated pairings.
 
 ## Features
