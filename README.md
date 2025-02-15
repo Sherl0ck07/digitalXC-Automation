@@ -13,4 +13,15 @@ Automates Secret Santa assignments with fairness and ensures no repeated pairing
 pip install -r requirements.txt
 ```
 ## Usage
+```sh
 python main.py
+```
+
+## Running Test
+```sh
+pytest tests/
+```
+
+Folder Structure
+data/ → CSV input/output
+tests/ → Unit tests
